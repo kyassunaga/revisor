@@ -8,6 +8,9 @@ Banco de dados é uma coleção de dados
 
 <!-- Dado -->
 <!-- Informação -->
+## Dado x Informação
+- Dado: Fato do mundo real que está registrado e possui um significado no contexto de um domínio de aplicação.
+- Informação: Fato útil que pode ser extraído a partir dos dados.
 
 ## Banco de dados X SGBD
 
