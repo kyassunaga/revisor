@@ -10,7 +10,8 @@ Banco de dados é uma coleção de dados
 <!-- Informação -->
 
 ## Banco de dados X SGBD
-
+    **Banco de dados**: conjunto de dados integrados que tem por objetivo atender a uma comunidade de usuários
+    **SGBD**: software que incorpora as funções de definição, recuperação e alteração de dados em um banco de dados
 ## Chave primária X Chave estrangeira
 
 ## Modelo Entidade-relacionamento
